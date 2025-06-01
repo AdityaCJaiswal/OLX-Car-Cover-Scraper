@@ -1,0 +1,375 @@
+{
+  "timestamp": "2025-06-02T01:15:50.964300",
+  "total_listings": 20,
+  "listings": [
+    {
+      "title": "Centre table and steel almirah",
+      "price": {
+        "value": {
+          "raw": 6000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 6,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:14:32+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "LG mini refrigerator one month old",
+      "price": {
+        "value": {
+          "raw": 6999.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 6,999"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:14:23+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Symphony Air cooler",
+      "price": {
+        "value": {
+          "raw": 4500.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 4,500"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:14:20+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Adistar racer size uk7",
+      "price": {
+        "value": {
+          "raw": 4000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 4,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:07:48+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Model   Z40.  4G",
+      "price": {
+        "value": {
+          "raw": 1850.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 1,850"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:14:14+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "1rk on sale",
+      "price": {
+        "value": {
+          "raw": 2000000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 20,00,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-25T01:11:09+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Flat on sale",
+      "price": {
+        "value": {
+          "raw": 4800000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 48,00,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-25T01:09:33+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Shop on sale",
+      "price": {
+        "value": {
+          "raw": 8500000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 85,00,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-25T01:03:09+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "2bhk on rent",
+      "price": {
+        "value": {
+          "raw": 15000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 15,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-25T01:01:10+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "APPLE MACBOOK PRO 1990 I7 CPU 16 GB RAM 256 GB SSD 4 GB DDR5 GRAPHIC",
+      "price": {
+        "value": {
+          "raw": 35000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 35,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-17T01:04:29+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Low budget laptop and desktop & mobile",
+      "price": {
+        "value": {
+          "raw": 5994.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 5,994"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-25T01:10:24+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Hotel, bakery and kitchen equipment used hotel item for factory  rate",
+      "price": {
+        "value": {
+          "raw": 18000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 18,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-09T01:11:01+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Audio Video Recording Booth for INSTA/YOUTUBE/MUSIC/VOICE-HOME-STUDIO",
+      "price": {
+        "value": {
+          "raw": 60000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 60,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:13:58+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Hotel kitchen Equipments and bakery items for sale",
+      "price": {
+        "value": {
+          "raw": 1235.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 1,235"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-09T01:14:48+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Fully Furnished luxury flat",
+      "price": {
+        "value": {
+          "raw": 20000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 20,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-09T01:00:24+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Drone/Helicam for Rent",
+      "price": "N/A",
+      "location": "N/A",
+      "date": "2025-06-02T01:07:15+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Hyundai Santro Xing GLS, 2011, Petrol",
+      "price": {
+        "value": {
+          "raw": 250000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 2,50,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-05-03T01:02:34+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Luxury office space available for rent",
+      "price": {
+        "value": {
+          "raw": 55999.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 55,999"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:13:46+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Honda Brio 2012 Petrol Well Maintained",
+      "price": {
+        "value": {
+          "raw": 170000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 1,70,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:13:54+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    },
+    {
+      "title": "Samsung galaxy S24 with all accessories EMI available",
+      "price": {
+        "value": {
+          "raw": 23000.0,
+          "currency": {
+            "iso_4217": "INR",
+            "pre": "₹"
+          },
+          "display": "₹ 23,000"
+        },
+        "key_name": "Price",
+        "key": "price"
+      },
+      "location": "N/A",
+      "date": "2025-06-02T01:13:47+05:30",
+      "link": "N/A",
+      "image_url": "N/A"
+    }
+  ]
+}
